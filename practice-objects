@@ -1,0 +1,12 @@
+let person = {
+    name: 'Renzo',
+    age: 41,
+}
+
+person.name = 'Paolo'
+console.log(person)
+
+// ---
+
+let array = ['apple', 'tomatoes']
+console.log(array)
