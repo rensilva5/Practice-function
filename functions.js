@@ -28,3 +28,9 @@
 
 // let e = Math.random()
 // console.log(e)
+
+let languages = ['sp', 'en', 'it']
+let languageshift = languages.shift()
+
+console.log(languages)
+console.log(languageshift)
